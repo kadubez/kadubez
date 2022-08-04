@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oi! Eu sou Carlos Eduardo
 
-<!--
-**kadubez/kadubez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 cursando em informática na SATC
+- tenho 16 anos
+- 🤓 conhecimento em JAVA
+- 💰 pretendo trabalhar com programação, mas por enquanto só estudo
+- 🧑🏾 gosto de jogar e sair com os amigos no meu tempo livre
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kadubez&show_icons=true&theme=radical">
+
+<a href= "https://instagram.com/kadubez_/">
+<img height="180cm" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
+
+</a>
+</div>
+<div>
+
+<img width="200" src="https://64.media.tumblr.com/646d16f31ac11331ce12f354fb4a5816/tumblr_n430bnxHmN1sgiccjo1_100.gifv">
+
+</div>
