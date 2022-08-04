@@ -1,5 +1,12 @@
 ### Oi! Eu sou Carlos Eduardo
+<div>
+<a href= "https://instagram.com/kadubez_/">
+<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
 
+</a>
+</div>
+
+- instagram: kadubez_(clica no icone)
 - 💻 cursando em informática na SATC
 - tenho 16 anos
 - 🤓 conhecimento em JAVA
@@ -10,10 +17,7 @@
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kadubez&show_icons=true&theme=radical">
 
-<a href= "https://instagram.com/kadubez_/">
-<img height="180cm" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
 
-</a>
 </div>
 <div>
 
