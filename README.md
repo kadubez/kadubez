@@ -6,12 +6,11 @@
 </a>
 </div>
 
-- instagram: kadubez_(clica no icone)
-- 💻 cursando em informática na SATC
-- tenho 16 anos
-- 🤓 conhecimento em JAVA
-- 💰 pretendo trabalhar com programação, mas por enquanto só estudo
-- 🧑🏾 gosto de jogar e sair com os amigos no meu tempo livre
+- 💻 técnico em informática
+- cursando engenharia de software
+- tenho 19 anos
+- 🤓 conhecimento em JAVA com springboot, postgresql, testes de integração.
+- 💰 estagiario em desenvolvimento na thomson reuters.
 
 <div>
 
